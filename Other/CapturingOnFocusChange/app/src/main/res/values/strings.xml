@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Focus Event</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_focus_event">FocusEvent</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="OK">OK</string>
+    <string name="cancelar">Cancelar</string>
+</resources>

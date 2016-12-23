@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EventoLongClickListener</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_evento_long_click_listener">Evento LongClickListener</string>
+    <string name="string_cont_inicio">0</string>
+    <string name="string_mensaje">Pulse aquí para incrementar. Mantenga pulsado para reiniciar el contador</string>
+    <string name="dialog_message_reset">¿Desea reiniciar el contador?</string>
+</resources>

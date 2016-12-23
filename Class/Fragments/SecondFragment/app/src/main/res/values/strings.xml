@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstFragment</string>
+    <string name="html">
+
+        <![CDATA[
+
+            <h1>HTML Y TAL</h1>
+
+        ]]>
+    </string>
+</resources>

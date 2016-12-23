@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string-array name="tabs">
+        <item>PC</item>
+        <item>Teclados</item>
+        <item>Ratones</item>
+        <item>Pantallas</item>
+        <item>Gráficas</item>
+        <item>Auriculares</item>
+        <item>Placas</item>
+        <item>Micrófonos</item>
+        <item>Fuentes</item>
+    </string-array>
+</resources>

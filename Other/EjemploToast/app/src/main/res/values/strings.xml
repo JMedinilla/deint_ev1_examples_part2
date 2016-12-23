@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EjemploToast</string>
+
+    <string name="text_only_button">Sólo texto</string>
+    <string name="icon_only_button">Sólo icono</string>
+    <string name="text_icon_button">Texto e icono</string>
+
+    <string name="text_only_msg">Mensaje Toast con sólo texto</string>
+    <string name="text_icon_msg">Mensaje Toast con texto e icono</string>
+</resources>

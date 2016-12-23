@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">CapturingOnKeyDown</string>
+    <string name="mensaje">Pulsa teclas del sistema</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_android_key">AndroidKey</string>
+
+</resources>
